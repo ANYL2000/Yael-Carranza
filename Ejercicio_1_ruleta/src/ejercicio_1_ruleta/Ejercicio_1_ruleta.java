@@ -53,6 +53,12 @@ Scanner entrada= new Scanner(System.in);
      */
     public static void main(String[] args) {
          System.out.println("Programa de ruleta de participacion");
+         
+         System.out.println("Presione");
+          System.out.println("1 para agregar alumno");
+           System.out.println("2 para mostrar alumno");
+         
+         
     }
     
 }
