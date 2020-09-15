@@ -15,7 +15,8 @@ public class Ejercicio_1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola Mundo NetBeans2");
+        System.out.println("Hola Mundo NetBeans");
+         System.out.println("Hola Mundo GitHub");
     }
     
 }
